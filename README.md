@@ -10,7 +10,7 @@ All scripts can be automatically ran using the setup.js. The command to use in M
 
 Due to the nature of the database being “schemaless”, the following diagram is to be used to show relationships between entities rather then an absolute structure of the database during it’s lifecycle.
 
-<img src="" />
+<img src="erd.bmp" />
 
 ### Attributes
 
